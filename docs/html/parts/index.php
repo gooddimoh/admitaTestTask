@@ -16,7 +16,6 @@
         }
     </style>
 </head>
-
 <body>
 
 <div class="block form-add-new-object">
@@ -37,7 +36,6 @@
         </div>
     </div>
 </div>
-
 <div class="block form-add-object">
     <form action="" method="post">
         <div class="form-1">
@@ -67,7 +65,6 @@
         </div>
     </form>
 </div>
-
 <div class="block form-filter-object">
     <div class="group">
         <div class="row">
@@ -132,7 +129,6 @@
 
     </div>
 </div>
-
 <div class="block form-filter-type-2-object">
     <span><input type="text" placeholder="Визуализация по адресу"><span>
             <i class="icon-close"><svg width="16" height="16" viewBox="0 0 16 16" fill="none"
@@ -145,7 +141,6 @@
     <span><span><i class="icon-address"></i>Сущность</span><a href="">Changefly</a><input type="text"></span>
     <span><span><i class="icon-address"></i>Транзакция</span><a href="">1hn3few123</a><input type="text"></span>
 </div>
-
 <div class="block hot-keys">
     <div class="hkey-group">
         <p>Горячие клавиши</p>
@@ -181,7 +176,6 @@
         <p>Назад <span class="br-button">-></span></p>
     </div>
 </div>
-
 <div class="block filter">
     <div class="top-block">
     <span><span class="close">
@@ -376,6 +370,7 @@
     </svg></span>
 </span>
         <!-- Object -->
+
 
 
 </body>
