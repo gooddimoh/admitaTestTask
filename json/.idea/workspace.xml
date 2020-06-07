@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc461340-5c89-4ddd-88bd-c496d20582de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docs/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docs/html/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docs/html/parts/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docs/html/parts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataobject.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neo4jData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controllers/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../controllers/dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gulp/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../gulp/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gulp/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../gulp/watch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../views/index.twig" beforeDir="false" afterPath="$PROJECT_DIR$/../views/index.twig" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1d0YLxAQvtL9KpxUw8kHf54ODMc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc461340-5c89-4ddd-88bd-c496d20582de" name="Default Changelist" comment="" />
+      <created>1591563425805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591563425805</updated>
+      <workItem from="1591563427479" duration="9000" />
+    </task>
+    <servers />
+  </component>
+</project>
