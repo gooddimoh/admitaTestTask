@@ -9,7 +9,8 @@
           "properties": {
             "userId": "eisman"
           }
-        }, {
+        },
+          {
           "id": "2",
           "labels": ["Phone"],
           "properties": {
