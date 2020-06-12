@@ -5,4 +5,136 @@ body {
 a {
   color: #00B7FF; }
 
-/*# sourceMappingURL=style.css.map */
+.form-wrapper {
+  height: 300px;
+  margin: 15% auto;
+  text-align: center; }
+  .form-wrapper input {
+    display: block; }
+  .form-wrapper form {
+    margin: 10% auto;
+    height: 200px;
+    display: block; }
+    .form-wrapper form input {
+      margin: 20px auto; }
+  .form-wrapper input {
+    border: none;
+    border: 1px solid #3782E9;
+    display: block; }
+  .form-wrapper form {
+    margin: 20px auto;
+    height: 200px;
+    display: block; }
+    .form-wrapper form input {
+      margin: 20px auto; }
+  .form-wrapper input {
+    border: none;
+    border: 1px solid #3782E9;
+    border: 0;
+    border-bottom: 1px solid #3782E9;
+    padding: 4px;
+    margin: 0 4px; }
+
+input.button.login {
+  width: 97.45px;
+  height: 28.54px;
+  left: 672px;
+  top: 579px;
+  background: #65A4FB;
+  border-radius: 5px;
+  cursor: pointer; }
+
+.form-wrapper input {
+  border: 0;
+  border-bottom: 1px solid #3782E9;
+  padding: 4px;
+  margin: 20px auto; }
+
+input.button.login {
+  width: 97.45px;
+  height: 28.54px;
+  left: 672px;
+  top: 579px;
+  background: #65A4FB;
+  border-radius: 5px; }
+
+.block {
+  border: 1px solid gray; }
+  .block.form-add-new-object {
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    background: gray;
+    color: #fff; }
+  .block.form-add-object {
+    position: absolute;
+    left: 60px;
+    top: 320px;
+    background: gray;
+    color: #fff; }
+  .block.form-filter-object {
+    position: absolute;
+    left: 60px;
+    top: 520px;
+    background: gray;
+    color: #fff; }
+  .block.hot-keys, .block.filter {
+    position: absolute;
+    width: 300px;
+    right: 60px;
+    bottom: 60px;
+    background: gray;
+    color: #fff;
+    padding: 20px; }
+  .block .blue-hint {
+    color: #3782E9; }
+  .block .neo4jd3 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border: 4px solid pink;
+    box-sizing: border-box; }
+  .block .svg-container {
+    z-index: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    border: 4px solid pink;
+    box-sizing: border-box; }
+  .block .wrapper {
+    width: 320px;
+    height: 200px;
+    margin: 0 auto; }
+  .block .form-wrapper {
+    margin: 14% auto;
+    width: 320px;
+    height: 300px; }
+    .block .form-wrapper form input {
+      cursor: pointer;
+      border: 0;
+      border-bottom: 1px solid #3782E9;
+      padding: 4px;
+      margin: 20px auto;
+      margin: 10px 10px 10px 10px; }
+  .block input.login {
+    cursor: pointer; }
+  .block .block-wrapper {
+    padding: 4px;
+    color: #000; }
+
+.hkey-group {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: flex-start; }
+
+.ht-button {
+  position: absolute;
+  right: 40px; }
+
+.hkey-group {
+  margin: 15px 10px; }

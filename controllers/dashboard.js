@@ -1,7 +1,7 @@
-exports.index = function (request, response) {
-    console.log(request);
-    console.log(response);
+const neo4jd3 = require('neo4jd3');
 
+exports.index = function (request, response) {
+    response.render('dashboard');
     https.get('https:api.nasa.gov/planetary/apod?api_key=DEMO_KEY', (resp) => {
         let data = '';
         resp.on('data', (chunk) => {
@@ -13,7 +13,6 @@ exports.index = function (request, response) {
     }).on("error", (err) => {
         console.log("Error: " + err.message);
     });
-
     var options = {
         highlight: [
             {
@@ -97,8 +96,11 @@ exports.index = function (request, response) {
         },
         zoomFit: true
     };
-
     var neo4jd3 = new Neo4jd3('#neo4jd3', options);
-
+    function User(name) { this.name = name; this.isAdmin = false; }
+    let user = new User("Вася");
+    alert(user.name); // Вася
+    alert(user.isAdmin); // false
     response.send("Главная страница");
 };
+exports.post_controller = function (request, response) { };
