@@ -11,4 +11,5 @@ $("input.login").click(function () {
     request.fail(function (jqXHR, textStatus) {
         alert("Request failed: " + textStatus);
     });
+    $(".block").draggable();
 });
